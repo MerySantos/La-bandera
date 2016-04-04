@@ -1,0 +1,19 @@
+/* Escribe tu css aqui */
+.caja{
+	height: 100px;
+	width: 200px;
+	/*font-weight: bold;*/
+	font-size: 18px;
+	padding: 10px ;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	display: inline;
+}
+
+.amarillo{
+background-color: yellow;
+}
+
+.rojo{
+background-color: red;
+}
